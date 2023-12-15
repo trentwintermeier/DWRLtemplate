@@ -1,8 +1,8 @@
 ---
 title: "Lecturer - Physics 101"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/course1
+type: "Undergraduate"
+permalink: /teaching/course
 university: "University"
 date: 2014-09-01
 semester: "Fall 2014"
