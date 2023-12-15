@@ -1,4 +1,5 @@
 ---
+layour: cv-archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -6,116 +7,59 @@ redirect_from:
   - /resume
 ---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your CV</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
+<style>
+a.uline {text-decoration:underline;}
+</style>
 
-        .container {
-            max-width: 960px;
-            margin: 0 auto;
-            padding: 20px;
-            overflow: hidden;
-        }
+{% include base_path %}
 
-        header {
-            background: #333;
-            color: #ffffff;
-            padding: 1em 0;
-            text-align: center;
-        }
+<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
-        section {
-            float: left;
-            width: 70%;
-        }
+## Education
+---
+**In Progress**<br>
+Ph.D. in Knowledge<br>
+University<br>
+*Advisor: Prof. Albert Einstein*
 
-        aside {
-            float: right;
-            width: 30%;
-            background: #ddd;
-            padding: 20px;
-        }
+**1990-2010**<br>
+B.S. in Partying<br>
+School<br>
+*Advisor: Prof. Paul Dirac*
 
-        h1, h2, h3 {
-            color: #333;
-        }
+## Research experience
+---
 
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
+**2015 - Present**<br>
+Position<br>
+I accomplished some things.<br>
+*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
 
-        ul li {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
 
-<body>
+## Service and Outreach
+---
+**2013 - Present**<br>
+Outreach<br>
 
-    <header>
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
-    </header>
 
-    <div class="container">
+## Publications
+---
+**Name2** et al. "Title of paper 1", 2016.
 
-        <section>
-            <h2>Summary</h2>
-            <p>Your brief summary goes here.</p>
 
-            <h2>Experience</h2>
-            <h3>Job Title</h3>
-            <p>Company Name, Location</p>
-            <p>Date - Date</p>
-            <ul>
-                <li>Responsibility #1</li>
-                <li>Responsibility #2</li>
-            </ul>
 
-            <!-- Add more experience sections as needed -->
+## Awards and Honors
+---
+Best Jekyll Theme, *Spring 2018*<br>
 
-            <h2>Education</h2>
-            <h3>Degree</h3>
-            <p>University Name, Location</p>
-            <p>Date - Date</p>
 
-            <!-- Add more education sections as needed -->
+## Talks and Presentations
+---
+"Seminar 17", University Colloquium, *March 2018*
 
-        </section>
 
-        <aside>
-            <h2>Contact</h2>
-            <ul>
-                <li>Email: your.email@example.com</li>
-                <li>Phone: (123) 456-7890</li>
-                <li>LinkedIn: linkedin.com/in/yourname</li>
-                <li>GitHub: github.com/yourusername</li>
-            </ul>
-
-            <h2>Skills</h2>
-            <ul>
-                <li>HTML5</li>
-                <li>CSS3</li>
-                <li>JavaScript</li>
-                <li>React</li>
-                <!-- Add more skills as needed -->
-            </ul>
-
-            <!-- Add additional sections such as certifications, projects, etc. -->
-
-        </aside>
-
-    </div>
-
-</body>
-
-</html>
+## Teaching
+---
+**Summer 1900**<br>
+Primary Instructor<br>
+*Quantum Field Theory 101*
