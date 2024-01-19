@@ -1,5 +1,5 @@
 ---
-title: "Lecturer - Physics 101"
+title: "Lecturer - Physics 102"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/course1
